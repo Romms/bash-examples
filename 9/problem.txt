@@ -1,1 +1,3 @@
+h1. Завантажити збірку gentoo з сервера
 
+Написати скрипт, який зайшовши за адресою http://mirror.yandex.ru/gentoo-distfiles/releases/amd64/autobuilds/ визначить stage3 архів останньої збірки, завантажить його і розпакує в директорію /mnt

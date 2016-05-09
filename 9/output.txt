@@ -1,1 +1,24 @@
+user@user-desktop ~/bash-examples/9 $ ./script.sh 
+[sudo] password for user: 
+--2016-05-10 00:09:48--  http://mirror.yandex.ru/gentoo-distfiles/releases/amd64/autobuilds/latest-stage3.txt
+Resolving mirror.yandex.ru (mirror.yandex.ru)... 213.180.204.183, 2a02:6b8::183
+Connecting to mirror.yandex.ru (mirror.yandex.ru)|213.180.204.183|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1136 (1,1K) [text/plain]
+Saving to: ‘latest-stage3.txt.1’
 
+100%[==========================================================================================================================================================================================================>] 1 136       --.-K/s   in 0s      
+
+2016-05-10 00:09:48 (161 MB/s) - ‘latest-stage3.txt.1’ saved [1136/1136]
+
+/20160505/stage3-amd64-20160505.tar.bz2
+--2016-05-10 00:09:48--  http://mirror.yandex.ru/gentoo-distfiles/releases/amd64/autobuilds/20160505/stage3-amd64-20160505.tar.bz2
+Resolving mirror.yandex.ru (mirror.yandex.ru)... 213.180.204.183, 2a02:6b8::183
+Connecting to mirror.yandex.ru (mirror.yandex.ru)|213.180.204.183|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250578990 (239M) [application/octet-stream]
+Saving to: ‘stage3-amd64-20160505.tar.bz2.1’
+
+100%[==========================================================================================================================================================================================================>] 250 578 990 4,84MB/s   in 55s    
+
+2016-05-10 00:10:43 (4,32 MB/s) - ‘stage3-amd64-20160505.tar.bz2.1’ saved [250578990/250578990]
