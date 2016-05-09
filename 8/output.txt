@@ -1,1 +1,8 @@
-
+user@user-desktop ~/bash-examples/8 $ ./script.sh cloudflare.com
+198.41.215.162 is available
+198.41.214.162 is available
+user@user-desktop ~/bash-examples/8 $ ./script.sh twitter.com
+199.16.156.70 is available
+199.16.156.198 is available
+199.16.156.230 is NOT available
+199.16.156.38 is available
