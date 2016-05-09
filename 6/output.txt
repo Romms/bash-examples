@@ -1,1 +1,19 @@
-
+user@user-desktop ~/bash-examples/6 $ ./script.sh "ls /tmp -lh" server1.com server2.com
+server1.com
+root@server1.com's password: 
+total 128K
+-rw-r--r-- 1 root     root      404 May  9 23:10 alive.log
+-rw-r--r-- 1 www-data www-data    6 May  6 16:02 dos-43.79.85.215
+-rw-r--r-- 1 www-data www-data    5 May  4 22:44 dos-194.244.23.206
+lrwxrwxrwx 1 root     root       37 May  1 03:48 ispmgr.adm.sock -> /usr/local/ispmgr/tmp/ispmgr.adm.sock
+lrwxrwxrwx 1 root     root       33 May  1 03:48 ispmgr.sock -> /usr/local/ispmgr/tmp/ispmgr.sock
+server2.com
+root@server2.com's password: 
+total 36K
+drwx------ 2 user user 4,0K May  9 10:50 kde-user
+drwx------ 2 user user 4,0K May  9 10:50 ksocket-user
+drwx------ 2 user user 4,0K May  9 20:57 libgksu-ZYoPHl
+drwxrwxrwx 2 user user 4,0K May  9 10:50 mintUpdate
+drwx------ 2 user user 4,0K Jan  1  1970 orbit-user
+srwxr-xr-x 1 user user    0 May  9 20:34 pluma.user.137722996
+drwx------ 2 root mdm  4,0K May  9 10:48 pulse-PKdhtXMmr10n
