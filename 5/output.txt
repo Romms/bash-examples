@@ -1,1 +1,11 @@
-
+user@user-desktop ~/bash-examples/5 $ ls --sort=size -l workdir/
+total 167M
+-rw-r--r-- 1 user user  87M Mar 28 01:01 qt-creator-opensource-linux-x86_64-3.6.1.run
+-rw-r--r-- 1 user user  57M Jan  7 13:10 kav4fs_8.0.2-256_i386.deb
+-rw-r--r-- 1 user user  22M Mar 28 00:41 lab1_zip
+-rw-r--r-- 1 user user 1,6M Mar 28 22:25 winbox.exe
+user@user-desktop ~/bash-examples/5 $ ./script.sh "workdir/"
+user@user-desktop ~/bash-examples/5 $ ls --sort=size -lh workdir/
+total 24M
+-rw-r--r-- 1 user user  22M Mar 28 00:41 lab1_zip
+-rw-r--r-- 1 user user 1,6M Mar 28 22:25 winbox.exe
