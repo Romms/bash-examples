@@ -1,1 +1,4 @@
-
+user@user-desktop ~/bash-examples/3 $ ./script.sh 2712
+  PID TTY          TIME CMD
+ 3303 ?        00:00:08 TVGuiSlave.64
+ 3304 ?        00:00:07 TVGuiDelegate
