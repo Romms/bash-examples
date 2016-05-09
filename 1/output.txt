@@ -1,0 +1,6 @@
+user@user-desktop ~/bash-examples/1 $ ./script.sh user
+/home/user
+user@user-desktop ~/bash-examples/1 $ ./script.sh root
+/root
+user@user-desktop ~/bash-examples/1 $ ./script.sh www
+/var/www

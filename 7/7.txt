@@ -1,0 +1,18 @@
+Написати скрипт, який в якості параметрів приймає адреси серверів і видає адреси серверів, на яких вільної пам'яті залишилося менше 100 Мб в форматі. Вивести в форматі server name | free memory
+
+#!/bin/bash
+ 
+user=root
+servers=$*
+ 
+for server in `echo $servers`
+do
+    a=(`ssh ${user}@${server} free | grep Mem`)
+ 
+    #a=(`free | grep Mem | cut -f 4-6`)
+    freemem=${a[3]}
+    if [ ${freemem} -lt  1024000 ]
+    then
+        echo $server " | " $freemem
+    fi
+done
