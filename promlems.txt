@@ -21,7 +21,7 @@
 11 - Скрипт додавання нового віртуального хоста для Apache2 сервера - https://gist.github.com/tsi/3088993
 TODO: add output.txt
 
-12 - скрипт додавання нового віртуального хоста для nginx сервера
+12 - Скрипт додавання нового віртуального хоста для nginx сервера
 http://www.sebdangerfield.me.uk/2011/03/automatically-creating-new-virtual-hosts-with-nginx-bash-script/
 
 
