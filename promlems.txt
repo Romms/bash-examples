@@ -34,5 +34,9 @@ http://www.sebdangerfield.me.uk/2011/03/automatically-creating-new-virtual-hosts
 
 17 - Сценарій очищення лог-файлів в /var/log
 
+18 - Найбільший спільний дільник
+
+
+
 Створення локальних бекапів
 Створення бекапів на віддалену машину

@@ -1,0 +1,10 @@
+user@user-desktop ~/bash-examples/18 $ ./script.sh
+Usage: script.sh first-number second-number
+user@user-desktop ~/bash-examples/18 $ ./script.sh 10 asf
+The second argument must be a positive number
+user@user-desktop ~/bash-examples/18 $ ./script.sh 0 13
+The first argument must be a positive number
+user@user-desktop ~/bash-examples/18 $ ./script.sh 4 28
+GCD for 4 and 28 = 4
+user@user-desktop ~/bash-examples/18 $ ./script.sh 81 121
+GCD for 81 and 121 = 1
