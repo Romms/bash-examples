@@ -1,5 +1,4 @@
 #!/bin/bash
-#http://www.sebdangerfield.me.uk/2011/09/bash-script-to-create-new-virtual-hosts-on-nginx-each-under-a-different-user/
 
 NGINX_CONFIG='/etc/nginx/sites-available'
 NGINX_SITES_ENABLED='/etc/nginx/sites-enabled'
