@@ -43,3 +43,8 @@ http://www.sebdangerfield.me.uk/2011/03/automatically-creating-new-virtual-hosts
 
 Створення локальних бекапів
 Створення бекапів на віддалену машину
+
+Ресурси:
+* http://r.edbox.ru/linux-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%BD%D0%B0-bash/
+* http://www.opennet.ru/docs/RUS/bash_scripting_guide/
+* http://www.tldp.org/LDP/abs/abs-guide.pdf (19-20-*)
