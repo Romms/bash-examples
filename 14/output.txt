@@ -1,0 +1,18 @@
+user@user-desktop ~/bash-examples/13 $ ./script.sh && echo OK || echo ERROR
+WiFi Spot 10.1.10.101 is unreachable.
+WiFi Spot 10.1.10.103 is unreachable.
+WiFi Spot 10.1.10.104 is unreachable.
+Mail sent
+ERROR
+user@user-desktop ~/bash-examples/13 $ ./script.sh && echo OK || echo ERROR
+WiFi Spot 10.1.10.101 is unreachable.
+WiFi Spot 10.1.10.103 is Reachable.
+WiFi Spot 10.1.10.104 is Reachable.
+Mail sent
+ERROR
+user@user-desktop ~/bash-examples/13 $ ./script.sh && echo OK || echo ERROR
+WiFi Spot 10.1.10.101 is Reachable.
+Mail sent
+OK
+user@user-desktop ~/bash-examples/13 $ ./script.sh && echo OK || echo ERROR
+OK
