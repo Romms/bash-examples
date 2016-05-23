@@ -32,5 +32,7 @@ http://www.sebdangerfield.me.uk/2011/03/automatically-creating-new-virtual-hosts
 
 16 - Сортування "бульбашкою"
 
+17 - Сценарій очищення лог-файлів в /var/log
+
 Створення локальних бекапів
 Створення бекапів на віддалену машину

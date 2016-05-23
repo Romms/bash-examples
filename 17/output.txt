@@ -1,0 +1,2 @@
+user@user-desktop ~/bash-examples/17 $ sudo ./script.sh 100
+Log files are cleared.
