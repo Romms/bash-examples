@@ -1,0 +1,14 @@
+user@user-desktop ~/bash-examples/19/test $ ls -1
+Another file.csv
+file 1.txt
+image.jpg
+user@user-desktop ~/bash-examples/19/test $ ../script.sh 
+The file Another file.csv renamed to Another_file.csv
+The file file 1.txt renamed to file_1.txt
+2 files renamed.
+user@user-desktop ~/bash-examples/19/test $ ls -1
+Another_file.csv
+file_1.txt
+image.jpg
+user@user-desktop ~/bash-examples/19/test $ ../script.sh 
+0 files renamed.
