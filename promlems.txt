@@ -24,6 +24,8 @@ TODO: add output.txt
 12 - Скрипт додавання нового віртуального хоста для nginx сервера
 http://www.sebdangerfield.me.uk/2011/03/automatically-creating-new-virtual-hosts-with-nginx-bash-script/
 
+13 - Перевірка доступності Wi-Fi точок доступу
+
 
 Очитка лог файлів в /var/log
 Перевірка доступності Wi-Fi точок доступу
