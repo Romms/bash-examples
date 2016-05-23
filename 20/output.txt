@@ -1,0 +1,19 @@
+user@user-desktop ~/bash-examples/20 $ ./script.sh 
+
+Insert source CD, but do *not* mount it.
+Press ENTER when ready. 
+
+
+Copying the source CD to /tmp/cdimage.iso.
+This may take a while. Please be patient.
+
+Remove data CD.
+Insert blank CDR.
+Press ENTER when ready. 
+
+Copying /tmp/cdimage.iso to CDR.
+
+Done copying /tmp/cdimage.iso to CDR on device /dev/cdrom.
+Do you want to erase the image file (y/n)? 
+y
+/tmp/cdimage.iso erased.
