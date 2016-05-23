@@ -1,0 +1,14 @@
+user@user-desktop ~/bash-examples/22 $ ./script.sh big-file.txt
+...
+younger
+youngster
+your
+yours
+yourself
+yourselves
+youth
+zealand
+zero
+zest
+zigzag
+user@user-desktop ~/bash-examples/22 $ 
