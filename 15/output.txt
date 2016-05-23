@@ -1,0 +1,12 @@
+user@user-desktop ~/bash-examples/15 $ ./script.sh 190
+CLXXXX
+user@user-desktop ~/bash-examples/15 $ ./script.sh 10
+X
+user@user-desktop ~/bash-examples/15 $ ./script.sh 190
+CLXXXX
+user@user-desktop ~/bash-examples/15 $ ./script.sh 117
+CXVII
+user@user-desktop ~/bash-examples/15 $ ./script.sh 34
+XXXIV
+user@user-desktop ~/bash-examples/15 $ ./script.sh 51
+LI
